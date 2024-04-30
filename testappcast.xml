@@ -3,10 +3,10 @@
     <channel>
         <title>Muliatracks</title>
         <item>
-            <title>Version 1.1.5</title>
+            <title>Version 1.1.6</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>Tu, 20 Feb 2024 17:22:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.indogps.muliatracks" sparkle:version="1.1.5" sparkle:os="android" />
+            <pubDate>Tu, 30 Apr 2024 17:02:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.indogps.muliatracks" sparkle:version="1.1.6" sparkle:os="android" />
         </item>
         <item>
         <title>Version 2.7</title>
